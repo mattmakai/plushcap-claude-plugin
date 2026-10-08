@@ -9,6 +9,7 @@
     "url": "https://www.plushcap.com"
   },
   "homepage": "https://www.plushcap.com/docs/mcp",
+  "repository": "https://github.com/mattmakai/plushcap-claude-plugin",
   "license": "MIT",
   "keywords": [
     "developer marketing",
