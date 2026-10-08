@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+__MACOSX/
+dist/
+*.zip
+.claude/settings.local.jso
